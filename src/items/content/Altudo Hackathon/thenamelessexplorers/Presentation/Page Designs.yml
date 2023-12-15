@@ -1,0 +1,39 @@
+﻿---
+ID: "74dea596-1daf-4606-8fcd-0596caf71d64"
+Parent: "a79eec42-30fd-44f0-9100-947ce4be7c8f"
+Template: "f4d7120f-202d-493d-882a-ba9229d849ea"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b629ED75B-A6EA-45E1-A2E8-66E36F895D21%7d%3d%257BA0690C31-E6DC-437D-A518-1C2B660D55D4%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231215T102736Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3029682-cacb-45c5-99f3-02ec6de4449d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231215T102802Z

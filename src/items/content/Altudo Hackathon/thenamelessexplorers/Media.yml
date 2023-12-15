@@ -1,0 +1,42 @@
+﻿---
+ID: "38976f52-f049-4aba-87e0-a09ca1fbf467"
+Parent: "9243c667-089d-4cf2-a3c0-fe5b50cd590c"
+Template: "e8e8c94f-4248-43c3-a79f-99fbb49d78e6"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Media
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "de8257d9-43aa-4eff-a2f4-2e9fbbd20e79"
+  Hint: AdditionalChildren
+  Value: |
+    {7BAEB7D5-991D-4FC4-85BA-3D6FCA3D23A5}
+    {06DE3FA6-D6C1-4BFF-B870-347E168BDC85}
+    {B4D0BE7D-1DCD-4263-9EDE-9E6693DA8BCB}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A7F39EA2-9018-4622-891D-CB65627E5AF2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231215T102736Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60ce952c-f65f-4e02-b2c2-4a33319fe87a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231215T102802Z

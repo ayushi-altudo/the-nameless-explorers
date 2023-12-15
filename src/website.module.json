@@ -1,0 +1,68 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Altudo.Hackathon",
+  "items": {
+    "includes": [
+      {
+        "name": "layouts",
+        "path": "/sitecore/layout/Layouts/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "components",
+        "path": "/sitecore/layout/Renderings/Feature/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "componentsProject",
+        "path": "/sitecore/layout/Renderings/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "placeholders",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates",
+        "path": "/sitecore/templates/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templatesFeature",
+        "path": "/sitecore/templates/Feature/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "media",
+        "path": "/sitecore/media library/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branchesFeature",
+        "path": "/sitecore/templates/Branches/Feature/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branchesProject",
+        "path": "/sitecore/templates/Branches/Project/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "modules",
+        "path": "/sitecore/system/Settings/Feature/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "apiKeys",
+        "path": "/sitecore/system/Settings/Services/API Keys",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "content",
+        "path": "/sitecore/content/Altudo Hackathon",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

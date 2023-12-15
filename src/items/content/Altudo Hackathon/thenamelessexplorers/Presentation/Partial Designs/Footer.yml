@@ -1,0 +1,68 @@
+﻿---
+ID: "291b9bb3-2572-4f0a-a3e5-9eaa56f79ee3"
+Parent: "e43afe0c-a31f-491c-bb25-4714a29860b7"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{FAF97918-BDD7-457C-9E41-9470DBD94598}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bE83ABF9D-6B5C-40B5-97C7-968F7DD86568%7d%7c%7b1A7BE4AC-7CF6-4DDC-B263-EA7F9106485F%7d%7c%7bDF1AF5CD-29EE-49E9-8ECA-216CD36AF651%7d%7c%7b42F1B05D-6EF8-4F9D-B6FB-3709A6E22140%7d%7c%7bF957609F-1789-4DC6-BEA4-222DA4403226%7d%7c%7bD71E1F7F-AB20-4973-A890-53834C101754%7d%7c%7bE5DFEFEC-846D-458F-99F3-5526E9BD5BDE%7d%7c%7bCC90443C-D4B5-47C1-82A2-CD821CD5E25F%7d%7c%7bA3ACB2F8-C945-49DE-BB28-30B549FF46CD%7d%7c%7bF20957C4-EEBF-4778-8402-81561E374758%7d%7c%7b5E5FD4B3-68C7-4E9F-9A82-6C5F66A71C8F%7d%7c%7bD4E4793E-23F4-4CCD-AE9E-F890C196C3A2%7d%7c%7bC52A9AF0-CD72-4CF4-83FB-CE81258BB845%7d%7c%7b35ECAFA5-C944-4040-AB28-F5EB0435DA30%7d%7c%7bAE1F96B0-9975-4AAA-B119-DD559E7E9272%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{45BACE58-D891-4C5C-9348-3B0BF787025D}"
+          p:after="r[@uid='{FAF97918-BDD7-457C-9E41-9470DBD94598}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b56F14896-C89E-4FD4-86E3-6E0D17CDE747%7d&amp;FieldNames=%7b61AA282D-CB55-4463-942D-76A2358C76B0%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{B4407813-6167-406B-AA39-42F42CFD0742}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b56F14896-C89E-4FD4-86E3-6E0D17CDE747%7d&amp;FieldNames=%7b61AA282D-CB55-4463-942D-76A2358C76B0%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231215T102756Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67b3ea7d-8c70-4b40-b9dc-16e86f9fb94b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231215T102802Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "646ca1be-9faf-4b6d-aae7-9dd96d482ab1"
+Parent: "95991dc5-0326-49ad-8097-ce141b4fd17d"
+Template: "95991dc5-0326-49ad-8097-ce141b4fd17d"
+Path: /sitecore/templates/Project/Altudo Hackathon/Partial Design Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {95991DC5-0326-49AD-8097-CE141B4FD17D}
+    {FD2059FD-6043-4DFE-8C04-E2437CE87634}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231215T101705Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b86d8f8-07d4-440e-b8e8-e7cee60ef29a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231215T101707Z
