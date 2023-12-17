@@ -1,11 +1,11 @@
-# XM Cloud Starter Kit (Next JS)
+# Getting started with solution setup
 
 ## QUICK START
 
-1. In an ADMIN terminal:
+1. open project in an ADMIN terminal:
 
     ```ps1
-    .\init.ps1 -InitEnv -LicenseXmlPath "C:\path\to\license.xml" -AdminPassword "DesiredAdminPassword"
+    .\init.ps1 -InitEnv -LicenseXmlPath "C:\path\to\license.xml" -AdminPassword "b"
     ```
 
 2. Restart your terminal and run:
@@ -13,15 +13,17 @@
     ```ps1
     .\up.ps1
     ```
+3. run
+   dotnet sitecore cloud login
+   
+4. run
+   dotnet sitecore ser push
 
-3. Follow the instructions to [deploy to XM Cloud](#deploy-to-xmcloud)
+5.navigate to /src/sxastarter in terminal
+    run
+    1. npm i
+    2. jss start:connected
 
-4. Create Edge token and [query from edge](#query-edge)
-
-*** 
-
-## About this Solution
-This solution is designed to help developers learn and get started quickly
-with XMCLoud + SXA.
-
+6: you app will run on localhost:3000
+    
 
