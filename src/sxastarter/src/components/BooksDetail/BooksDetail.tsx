@@ -1,0 +1,36 @@
+import React from 'react';
+import { ComponentParams, ComponentRendering, Field, ImageField, Image } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentProps } from 'lib/component-props';
+
+export type BooksDetailProps = ComponentProps &  {
+  fields: {
+    Title: { value: string } ,
+    Content: { value: string },
+    Description: { value: string },
+    Price: { value: string },
+    Availability:{ value: string },
+    Image: { value: { src: string} };
+  }
+};
+
+
+
+export const Default = (props: BooksDetailProps): JSX.Element => {
+  console.log("img",props.fields.Image);
+  return (
+    <div className={`component`}>
+      <div className="component-content">
+        <h2 className='text-center'>Book Detail</h2>
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6 border-right"><img src={props.fields.Image.value?.src}/></div>
+            <div className="col-md-6">
+              <p>{props.fields.Title.value}</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  );
+};

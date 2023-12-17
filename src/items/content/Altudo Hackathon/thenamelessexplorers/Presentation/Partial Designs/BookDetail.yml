@@ -29,9 +29,11 @@ Languages:
             <r
               uid="{D0AFA899-BAE6-4B87-9D08-1C078659C17E}"
               p:before="*"
+              s:ds="page:"
               s:id="{1B57585F-ABFD-44E1-8A38-D34A09B6E957}"
-              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
-              s:ph="/headless-main/row-1-1/container-2" />
+              s:par="CSSStyles"
+              s:ph="/headless-main/row-1-1/container-2"
+              s:ccb="Clear on publish" />
             <r
               uid="{FEA5FAAA-3AFD-4907-ACB2-8FD76B13B95C}"
               p:after="r[@uid='{D0AFA899-BAE6-4B87-9D08-1C078659C17E}']"
@@ -59,11 +61,11 @@ Languages:
         sitecore\sailaab.tirkey@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ec67da49-67c0-455d-af7f-e4815ea53a7d"
+      Value: "5f786c34-613c-4817-b7e3-d719e76632f5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231217T081401Z
+      Value: 20231217T084041Z
