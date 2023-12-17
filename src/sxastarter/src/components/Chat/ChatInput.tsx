@@ -106,7 +106,7 @@ const ChatInput: FC<ChatInputProps> = ({ className, ...props }) => {
         />
 
         <div className="absolute inset-y-0 right-0 flex py-1.5 pr-1.5">
-          <kbd className="inline-flex items-center rounded border bg-white border-gray-200 px-1 font-sans text-xs text-gray-400">
+          <kbd className="inline-flex items-center rounded border bg-white border-gray-200 px-1 font-sans text-2xl text-gray-400">
             {isLoading ? (
               <Loader2 className="w-3 h-3 animate-spin" />
             ) : (
