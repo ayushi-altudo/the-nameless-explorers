@@ -1,0 +1,44 @@
+﻿---
+ID: "2cf98c0a-533d-4f1f-aa4a-5099dbc3deec"
+Parent: "00939ef6-c4b0-4efd-855f-fdc45a9aad6d"
+Template: "311962b0-5d8f-4668-991c-107a553a5491"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Home/catalogue/Travel/A book by Rick Ansonson about his journey to Mount Ararat
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{00A43EBD-F642-4CE3-BBA6-85A84218CF21}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T074159Z
+    - ID: "3cf530d1-2a33-48ad-b978-742a30daa714"
+      Hint: Image
+      Value: |
+        <image mediaid="{80944AA9-AC53-451C-B2AB-DCAA8CD08A9F}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: A book by Rick Ansonson about his journey to Mount Ararat
+    - ID: "79647668-40b3-409e-84fd-6d17c99121b8"
+      Hint: Title
+      Value: "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5de5d985-7388-44ca-b134-4009fe0d3ef4"
+    - ID: "97a2939a-ce78-4544-9662-e83c3aa5e88d"
+      Hint: Price
+      Value: 49.43
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c48d1ec2-5516-4526-a9bb-3c26cd78e916"
+      Hint: Description
+      Value: A book by Rick Ansonson about his journey to Mount Ararat
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T075358Z

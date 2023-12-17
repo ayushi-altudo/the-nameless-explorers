@@ -1,0 +1,39 @@
+﻿---
+ID: "9e56dfd2-de71-4de6-bb8e-d5c7bc4b2f8e"
+Parent: "74dea596-1daf-4606-8fcd-0596caf71d64"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Presentation/Page Designs/Books Detail page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{080FA7AA-FF06-460C-A4C4-BF8FFAA4C10A}|{89AB5BC8-508D-453D-B622-00EC744E70A0}|{291B9BB3-2572-4F0A-A3E5-9EAA56F79EE3}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{5864CD89-7F63-442F-9AE0-D9C3E25280FD}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T081529Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f84c6dad-4984-4d0e-b799-39b29393b164"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T081619Z

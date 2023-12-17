@@ -42,6 +42,30 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D86974D9-0325-4B1D-9590-3096295EBF55}">
+              <p:d />
+            </r>
+            <r
+              uid="{B3F6F52D-25E9-4499-945B-B5395F823465}"
+              p:before="*"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B41E4B2ED-E813-46F9-8455-C26C88E78D47%7D&amp;FieldNames=%7B30AA5582-3A97-49A9-906E-DF43750E3181%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-header"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20231215T102757Z
@@ -55,11 +79,11 @@ Languages:
         sitecore\sailaab.tirkey@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5d5774e6-50c8-4910-a956-1b229814229a"
+      Value: "64c7fdde-c758-4a96-9554-6dfa2b2c5cb6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231215T102804Z
+      Value: 20231217T075942Z

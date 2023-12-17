@@ -1,0 +1,38 @@
+﻿---
+ID: "71e47274-6cc2-4e8f-985a-73fe538083ba"
+Parent: "a05e714d-15ea-47af-9060-fa1fe675c2f6"
+Template: "629ed75b-a6ea-45e1-a2e8-66e36f895d21"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Home/catalogue
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{13EE5A7E-A361-4F98-AEFB-FCAC8F83DA98}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Catalogue
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12d3d25a-6fd6-4b99-a723-5c1ab3c8b2dd"
+      Hint: Title
+      Value: Books
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T070609Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Books
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f63a3e0-f8be-49da-95c5-23d4f55aac97"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T073007Z

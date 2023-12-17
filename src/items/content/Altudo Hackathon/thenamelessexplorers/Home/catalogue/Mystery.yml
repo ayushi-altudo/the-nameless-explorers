@@ -1,0 +1,34 @@
+﻿---
+ID: "1cf9a82b-f22c-4a9f-a95f-dc1dca43608f"
+Parent: "71e47274-6cc2-4e8f-985a-73fe538083ba"
+Template: "22de7e74-60b8-42b9-a6e8-37f23078c58f"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Home/catalogue/Mystery
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8F76E394-A2EF-48A0-B90B-7A1D864137F4}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T074759Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Mystery
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "106701d3-937b-4007-8899-5617992ed934"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T074759Z
+    - ID: "dd71c369-6dc9-49e6-a1ef-82d90e3ef45a"
+      Hint: Title
+      Value: Mystery

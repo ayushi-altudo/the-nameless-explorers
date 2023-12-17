@@ -1,0 +1,38 @@
+﻿---
+ID: "4a5e2ae5-02fc-4d4b-9a01-6e7478f30be1"
+Parent: "22de7e74-60b8-42b9-a6e8-37f23078c58f"
+Template: "22de7e74-60b8-42b9-a6e8-37f23078c58f"
+Path: /sitecore/templates/Project/Altudo Hackathon/Book Category/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{311962B0-5D8F-4668-991C-107A553A5491}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231215T101705Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "777a7bd7-bb07-4b7f-9b7d-84900ff9ff52"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T074720Z
+    - ID: "dd71c369-6dc9-49e6-a1ef-82d90e3ef45a"
+      Hint: Title
+      Value: $name

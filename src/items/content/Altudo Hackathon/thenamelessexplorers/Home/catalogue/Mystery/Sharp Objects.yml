@@ -1,0 +1,44 @@
+﻿---
+ID: "0b3e95ba-3b23-451b-82aa-10c04fb2856b"
+Parent: "1cf9a82b-f22c-4a9f-a95f-dc1dca43608f"
+Template: "311962b0-5d8f-4668-991c-107a553a5491"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Home/catalogue/Mystery/Sharp Objects
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{33E9F6C9-9632-4E74-B086-E1A72FCE92A7}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T074826Z
+    - ID: "3cf530d1-2a33-48ad-b978-742a30daa714"
+      Hint: Image
+      Value: |
+        <image mediaid="{150485ED-F2F0-418F-A1E6-EFC9D2C6FD65}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sharp Objects
+    - ID: "79647668-40b3-409e-84fd-6d17c99121b8"
+      Hint: Title
+      Value: Sharp Objects
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3804bc2-9b8a-48a8-9c0f-4cfabaaee055"
+    - ID: "97a2939a-ce78-4544-9662-e83c3aa5e88d"
+      Hint: Price
+      Value: 47.82
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c48d1ec2-5516-4526-a9bb-3c26cd78e916"
+      Hint: Description
+      Value: A book about by Gillian Flynn about Camille Preaker's troubled past
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T075026Z

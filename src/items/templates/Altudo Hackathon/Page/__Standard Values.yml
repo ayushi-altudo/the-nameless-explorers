@@ -9,6 +9,7 @@ SharedFields:
   Value: |
     {629ED75B-A6EA-45E1-A2E8-66E36F895D21}
     {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {22DE7E74-60B8-42B9-A6E8-37F23078C58F}
 Languages:
 - Language: en
   Versions:
@@ -30,11 +31,11 @@ Languages:
         sitecore\sailaab.tirkey@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4bdfafb0-7e29-43aa-aea8-b80de15b3a90"
+      Value: "ad895bd8-755b-4e2a-8c91-df0d70a98ee8"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\sailaab.tirkey@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231215T101709Z
+      Value: 20231217T074647Z

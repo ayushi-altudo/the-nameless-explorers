@@ -1,0 +1,44 @@
+﻿---
+ID: "bafe3f3a-9ea0-4764-b145-bb2dd2da4ef6"
+Parent: "00939ef6-c4b0-4efd-855f-fdc45a9aad6d"
+Template: "311962b0-5d8f-4668-991c-107a553a5491"
+Path: /sitecore/content/Altudo Hackathon/thenamelessexplorers/Home/catalogue/Travel/A book about travelling the himalayas
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{34EAF79C-C98B-4F2D-B9D5-DECF4B4720B7}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231217T073758Z
+    - ID: "3cf530d1-2a33-48ad-b978-742a30daa714"
+      Hint: Image
+      Value: |
+        <image mediaid="{5115CEFF-B289-48AB-92F2-AC8459319420}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: A book about travelling the himalayas
+    - ID: "79647668-40b3-409e-84fd-6d17c99121b8"
+      Hint: Title
+      Value: A book about travelling the himalayas
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0974104a-5cf5-41be-b117-9cdb5064d74c"
+    - ID: "97a2939a-ce78-4544-9662-e83c3aa5e88d"
+      Hint: Price
+      Value: 50
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sailaab.tirkey@altudo.co
+    - ID: "c48d1ec2-5516-4526-a9bb-3c26cd78e916"
+      Hint: Description
+      Value: A book about travelling the himalayas
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231217T074742Z
